@@ -1,5 +1,9 @@
 # hack-a617a450-ballball
 
+## Live Demo
+
+https://ekt-ai-assistant.vercel.app
+
 HackAlem prototype: a **Next.js sales-assistant web application for ekt.kz**,
 with a grounded OpenAI assistant, persistent catalog search, fresh EKT details,
 comparison candidates, and a confirmation-only demo cart. No production checkout
