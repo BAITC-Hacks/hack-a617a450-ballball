@@ -1,0 +1,177 @@
+{
+  "page": 752,
+  "per_page": 20,
+  "count": 17,
+  "items": [
+    {
+      "id": 22061,
+      "name": "Ящик силовой ЯРВ-6122-100А",
+      "article": "270400026_",
+      "price": 34280,
+      "image": "https://ekt.kz/upload/iblock/3eb/0cqissyknn94kdk49bkpefzh5zlenpsn/yashchik_silovoy_yarv_6122_100a_.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/_yashchik_silovoy_yarv_6122_100a_/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=22061",
+      "offers": []
+    },
+    {
+      "id": 30314,
+      "name": "Ящик силовой ЯРВ-6123-100А",
+      "article": "270400004_",
+      "price": 42240,
+      "image": "https://ekt.kz/upload/iblock/55e/0r08m6oo5x6dq8yov157xjc8ictcooq9/yashchik_silovoy_yarv_6123_100a.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/yashchik_silovoy_yarv_6123_100a/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=30314",
+      "offers": []
+    },
+    {
+      "id": 23171,
+      "name": "Ящик силовой ЯРВ-6123-250А",
+      "article": "270400027_",
+      "price": 45480,
+      "image": "https://ekt.kz/upload/iblock/acb/n2od0403at8qjlvlghmnql2gd0a729o9/yashchik_silovoy_yarv_6123_250a_.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/_yashchik_silovoy_yarv_6123_250a_/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=23171",
+      "offers": []
+    },
+    {
+      "id": 30319,
+      "name": "Ящик силовой ЯРВ-6124-250А",
+      "article": "270400006_",
+      "price": 48720,
+      "image": "https://ekt.kz/upload/iblock/b17/4mr5wes4gl7ln9n8ts9chkr0jyp8zkdh/yashchik_silovoy_yarv_6124_250a.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/yashchik_silovoy_yarv_6124_250a/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=30319",
+      "offers": []
+    },
+    {
+      "id": 24157,
+      "name": "Ящик ЯБПВУ -1 100А с руб-ком с пред. IP 54",
+      "article": "270400003_",
+      "price": 33280,
+      "image": "https://ekt.kz/upload/iblock/eac/4eou6ruhjdwktgh2aud6textd5j1qgym/yashchik_yabpvu_1_100a_s_rub_kom_s_pred_ip_54.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/_yashchik_yabpvu_1_100a_s_rub_kom_s_pred_ip_54/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=24157",
+      "offers": []
+    },
+    {
+      "id": 23172,
+      "name": "Ящик ЯБПВУ -2 250А с руб-ком с пред. IP 54",
+      "article": "270400014_",
+      "price": 49990,
+      "image": "https://ekt.kz/upload/iblock/131/uorm6blbcltdiylojei9b67vq63d05si/yashchik_yabpvu_1_250a_s_rub_kom_s_pred_ip_54.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/_yashchik_yabpvu_1_250a_s_rub_kom_s_pred_ip_54/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=23172",
+      "offers": []
+    },
+    {
+      "id": 22059,
+      "name": "Ящик ЯБПВУ -4 400А с руб-ком с пред. IP 54",
+      "article": "270400018_",
+      "price": 58520,
+      "image": "https://ekt.kz/upload/iblock/9a8/lum4e3ey5gf492nfq7wqnlcucalt8msh/yashchik_yabpvu_1_400a_s_rub_kom_s_pred_ip_54.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/rubilniki/yashchiki_silovye_yarv_yabpvu_yarp/_yashchik_yabpvu_1_400a_s_rub_kom_s_pred_ip_54/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=22059",
+      "offers": []
+    },
+    {
+      "id": 23906,
+      "name": "Ящик ЯТП(укп) 220/12 IEK (1)",
+      "article": "270300001_",
+      "price": 38374,
+      "image": "https://ekt.kz/upload/iblock/7cc/yashchik_yatp_ukp_220_12_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_220_12_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=23906",
+      "offers": []
+    },
+    {
+      "id": 24924,
+      "name": "Ящик ЯТП(укп) 220/24 IEK (1)",
+      "article": "270300002_",
+      "price": 37439,
+      "image": "https://ekt.kz/upload/iblock/dd2/epxf6zzbxc9slv7p6fhxitv1ko3361cz/yashchik_yatp_ukp_220_24_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_220_24_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=24924",
+      "offers": []
+    },
+    {
+      "id": 19908,
+      "name": "Ящик ЯТП(укп) 220/42 IEK (1)",
+      "article": "270300004_",
+      "price": 37792,
+      "image": "https://ekt.kz/upload/iblock/b4f/2edol8m39uq5kf847q0ng2i3lixwp1tn/yashchik_yatp_ukp_220_42_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_220_42_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=19908",
+      "offers": []
+    },
+    {
+      "id": 31918,
+      "name": "Ящик ЯТП(укп) 230/12 IP54 IEK (1)",
+      "article": "270300253_",
+      "price": 64673,
+      "image": "https://ekt.kz/upload/iblock/d3e/haju7tixffwi6blqezxrk838hsu2ny6x/yashchik_yatp_ukp_230_12_ip54_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_230_12_ip54_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=31918",
+      "offers": []
+    },
+    {
+      "id": 31919,
+      "name": "Ящик ЯТП(укп) 230/24 IP54 IEK (1)",
+      "article": "270300251_",
+      "price": 64673,
+      "image": "https://ekt.kz/upload/iblock/f83/oq6ltob1lt0jqsaan90623jfizbcr4f6/yashchik_yatp_ukp_230_24_ip54_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_230_24_ip54_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=31919",
+      "offers": []
+    },
+    {
+      "id": 18057,
+      "name": "Ящик ЯТП(укп) 230/36 IEK (1)",
+      "article": "270300003_",
+      "price": 38436,
+      "image": "https://ekt.kz/upload/iblock/edd/cdy76ec104scfziraevpbrezd1fcnqg5/yashchik_yatp_ukp_220_36_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_220_36_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=18057",
+      "offers": []
+    },
+    {
+      "id": 31920,
+      "name": "Ящик ЯТП(укп) 230/36 IP54 IEK (1)",
+      "article": "270300254_",
+      "price": 64673,
+      "image": "https://ekt.kz/upload/iblock/61e/qsycy79xq7gbzzt2me35i1gjb1nt6zgg/yashchik_yatp_ukp_230_36_ip54_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_230_36_ip54_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=31920",
+      "offers": []
+    },
+    {
+      "id": 22896,
+      "name": "Ящик ЯТП(укп) 380/12 IEK (1)",
+      "article": "270300005_",
+      "price": 44503,
+      "image": "https://ekt.kz/upload/iblock/579/l1yq1o9rg7wbnnhuu9ivcapfxp6t6bkn/yashchik_yatp_ukp_380_12_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_380_12_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=22896",
+      "offers": []
+    },
+    {
+      "id": 30286,
+      "name": "Ящик ЯТП(укп) 380/24 IEK (1)",
+      "article": "270300006_",
+      "price": 44873,
+      "image": "https://ekt.kz/upload/iblock/082/fzwghj9q0x1u27rysqduetrlqqevff40/yashchik_yatp_ukp_380_24_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_380_24_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=30286",
+      "offers": []
+    },
+    {
+      "id": 22058,
+      "name": "Ящик ЯТП(укп) 380/36 IEK (1)",
+      "article": "270300007_",
+      "price": 44503,
+      "image": "https://ekt.kz/upload/iblock/92b/pnz4fbvhlyfkl0n65rqxegj9htwdnxxk/yashchik_yatp_ukp_380_36_iek_1.jpg",
+      "url": "https://ekt.kz/catalog/nizkovoltnaya_apparatura/transformatory/ponizhayushchie_transformatory_yatp/yashchik_yatp_ukp_380_36_iek_1/",
+      "url_api_detail": "https://ekt.kz/api/products/detail?id=22058",
+      "offers": []
+    }
+  ]
+}

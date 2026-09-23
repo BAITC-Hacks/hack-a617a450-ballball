@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.ekt-inspection/
+.ekt-cache/
+coverage/
+*.tsbuildinfo
+
+.next/
